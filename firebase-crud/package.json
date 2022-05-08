@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "firebase-admin": "^10.2.0",
+    "firebase-tools": "^10.8.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.17.10"
+  }
+}
